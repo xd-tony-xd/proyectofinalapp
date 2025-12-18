@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 🎨 Colores principales del tema -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- 🟠 Colores personalizados para tu app -->
+    <color name="orange">#FF9800</color> <!-- Naranja vibrante (activo) -->
+    <color name="gray">#9E9E9E</color>   <!-- Gris suave (inactivo) -->
+
+    <!-- Fondos generales -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_dark">#212121</color>
+
+    <!-- Colores adicionales para layout -->
+    <color name="gray_dark">#555555</color> <!-- Gris oscuro para textos secundarios -->
+    <color name="red_700">#D32F2F</color>  <!-- Rojo intenso para errores o favoritos -->
+</resources>
